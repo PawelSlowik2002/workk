@@ -1,0 +1,25 @@
+{
+  "name": "workk",
+  "version": "1.0.0",
+  "description": "Podcast app ",
+  "main": "main.js",
+  "scripts": {
+    "test": "Hello world "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawelSlowik2002/workk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawelSlowik2002/workk/issues"
+  },
+  "homepage": "https://github.com/PawelSlowik2002/workk#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
